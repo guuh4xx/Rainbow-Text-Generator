@@ -1,6 +1,6 @@
 # Rainbow Text Generator
 
-The Rainbow Text Generator is a text formatter, that get your text and transforms in Minecraft colour text (need to have a plugin for this).
+The Rainbow Text Generator is a text formatter, that gets your text and transforms in Minecraft colour text (must have a plugin for this).
 
 ![Result](https://i.imgur.com/LsA3ckH.png)
 
