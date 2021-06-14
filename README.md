@@ -18,5 +18,5 @@ Depois, coloque o texto que você quer que fique rainbow.
 
 ![Result](https://i.imgur.com/Rh4k4PI.png)
 
-## Licensa
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
